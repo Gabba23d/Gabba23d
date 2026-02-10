@@ -18,53 +18,8 @@ Amo praticamente todas as engenharias e adoro entender como as coisas funcionam 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="50px" 
-    style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img
-    align="left" 
-    alt="C" 
-    title="C"
-    width="40px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-<img
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="46px" 
-    style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img        
-align="left" 
-    alt="Reactor" 
-    title="Reactor"
-    width="50px" 
-    style="padding-right: 10px;"  
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
- <img    
- align="left" 
-    alt="Linux"
-    title="Linux"
-    width="50px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img
-  align="left"
-  alt="SQL"
-  title="SQL"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-
-<br clear="left"/>
-
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white )
  
  ## 📚 O que estou aprendendo
 
@@ -76,4 +31,6 @@ Atualmente estou focado em aprimorar minha lógica de programação e evoluir em
 <blockquote>
    <b>“Amar é como programar sem manual: você erra, corrige, aprende… e mesmo assim escolhe continuar executando o mesmo código.”</b>
 </blockquote>
+
+
 
