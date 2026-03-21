@@ -26,11 +26,6 @@ Amo praticamente todas as engenharias e adoro entender como as coisas funcionam 
 Atualmente estou focado em aprimorar minha lógica de programação e evoluir em Java, entendendo conceitos fundamentais e aplicando na prática por meio de projetos e estudos contínuos.
 
 
-### 🧠Filosofia
- 
-<blockquote>
-   <b>“Amar é como programar sem manual: você erra, corrige, aprende… e mesmo assim escolhe continuar executando o mesmo código.”</b>
-</blockquote>
 
 
 
