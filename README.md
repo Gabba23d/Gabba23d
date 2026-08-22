@@ -9,7 +9,6 @@ Amo praticamente todas as engenharias e adoro entender como as coisas funcionam 
 
 ## 🌐 Onde me encontrar
 
-- GitHub: @Gabbad23
 - Discord: super_gab
    
 </p>
